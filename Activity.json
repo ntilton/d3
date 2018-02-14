@@ -1,0 +1,441 @@
+{
+  "name": "Activity",
+  "description": "Activity",
+  "children":
+    [
+      {
+        "On Off Prod": "On Prod",
+        "Activity": "Active Inventory Management (AIM)",
+        "Sub_Activity": "N/A",
+        "% Share": 0.0000959485790964537,
+        "size": 66.216665
+      },
+      {
+        "On Off Prod": "On Prod",
+        "Activity": "Appeals",
+        "Sub_Activity": "N/A",
+        "% Share": 0.0002833538078375764,
+        "size": 195.549977
+      },
+      {
+        "On Off Prod": "Off Prod",
+        "Activity": "Break",
+        "Sub_Activity": "N/A",
+        "% Share": 0.007634710307741603,
+        "size": 5268.916612
+      },
+      {
+        "On Off Prod": "Off Prod",
+        "Activity": "Break/Lunch",
+        "Sub_Activity": "N/A",
+        "% Share": 0.08528360352047484,
+        "size": 58856.482626
+      },
+      {
+        "On Off Prod": "On Prod",
+        "Activity": "BvSD",
+        "Sub_Activity": "N/A",
+        "% Share": 0.006284378354155117,
+        "size": 4337.015755
+      },
+      {
+        "On Off Prod": "On Prod",
+        "Activity": "CD Processing",
+        "Sub_Activity": "N/A",
+        "% Share": 0.17434228734264118,
+        "size": 120318.245706
+      },
+      {
+        "On Off Prod": "On Prod",
+        "Activity": "DMR",
+        "Sub_Activity": "N/A",
+        "% Share": 0.010163086985296128,
+        "size": 7013.816647
+      },
+      {
+        "On Off Prod": "On Prod",
+        "Activity": "EPA",
+        "Sub_Activity": "N/A",
+        "% Share": 0.039436266717826365,
+        "size": 27216.015836
+      },
+      {
+        "On Off Prod": "On Prod",
+        "Activity": "Failed Fax",
+        "Sub_Activity": "N/A",
+        "% Share": 0.002611404921937511,
+        "size": 1802.199756
+      },
+      {
+        "On Off Prod": "On Prod",
+        "Activity": "Fax Intake",
+        "Sub_Activity": "ePA supporting documents",
+        "% Share": 0.0037245098701214146,
+        "size": 2570.383267
+      },
+      {
+        "On Off Prod": "On Prod",
+        "Activity": "Fax Intake",
+        "Sub_Activity": "Fax Back",
+        "% Share": 0.0000250195640432736,
+        "size": 17.266662
+      },
+      {
+        "On Off Prod": "On Prod",
+        "Activity": "Fax Intake",
+        "Sub_Activity": "Non-CD",
+        "% Share": 0.01550036857971663,
+        "size": 10697.215995
+      },
+      {
+        "On Off Prod": "On Prod",
+        "Activity": "Fax Intake",
+        "Sub_Activity": "RFI Supporting Documents",
+        "% Share": 0.0029718460352057144,
+        "size": 2050.949902
+      },
+      {
+        "On Off Prod": "On Prod",
+        "Activity": "Fax Intake",
+        "Sub_Activity": "Standard",
+        "% Share": 0.05222061188966392,
+        "size": 36038.832261
+      },
+      {
+        "On Off Prod": "On Prod",
+        "Activity": "Fax Intake",
+        "Sub_Activity": "Unsorted",
+        "% Share": 0.0022940718413114345,
+        "size": 1583.199879
+      },
+      {
+        "On Off Prod": "On Prod",
+        "Activity": "Fax Intake",
+        "Sub_Activity": "Urgent",
+        "% Share": 0.019432738862695628,
+        "size": 13411.049482
+      },
+      {
+        "On Off Prod": "On Prod",
+        "Activity": "Final Review",
+        "Sub_Activity": "N/A",
+        "% Share": 0.08997069040182869,
+        "size": 62091.163702
+      },
+      {
+        "On Off Prod": "Off Prod",
+        "Activity": "Health and Welfare",
+        "Sub_Activity": "N/A",
+        "% Share": 0.0007823202293608158,
+        "size": 539.899988
+      },
+      {
+        "On Off Prod": "On Prod",
+        "Activity": "Inbound Call",
+        "Sub_Activity": "N/A",
+        "% Share": 0.05852377906700983,
+        "size": 40388.815912
+      },
+      {
+        "On Off Prod": "Off Prod",
+        "Activity": "Inbox/Email",
+        "Sub_Activity": "N/A",
+        "% Share": 0.002162477628500819,
+        "size": 1492.383297
+      },
+      {
+        "On Off Prod": "On Prod",
+        "Activity": "Inbox/Email",
+        "Sub_Activity": "N/A",
+        "% Share": 0.003138313076663518,
+        "size": 2165.833314
+      },
+      {
+        "On Off Prod": "On Prod",
+        "Activity": "Labeling",
+        "Sub_Activity": "N/A",
+        "% Share": 0.027649685337926888,
+        "size": 19081.781382
+      },
+      {
+        "On Off Prod": "Off Prod",
+        "Activity": "Maintenance",
+        "Sub_Activity": "Sanovia Maintenance",
+        "% Share": 0.00556547644060283,
+        "size": 3840.883331
+      },
+      {
+        "On Off Prod": "On Prod",
+        "Activity": "Manual Mail",
+        "Sub_Activity": "Process",
+        "% Share": 0.0000336894708883848,
+        "size": 23.249995
+      },
+      {
+        "On Off Prod": "Off Prod",
+        "Activity": "Meetings",
+        "Sub_Activity": "Corporate",
+        "% Share": 0.002757175277695426,
+        "size": 1902.799997
+      },
+      {
+        "On Off Prod": "Off Prod",
+        "Activity": "Meetings",
+        "Sub_Activity": "Huddles",
+        "% Share": 0.03067760804080488,
+        "size": 21171.433222
+      },
+      {
+        "On Off Prod": "Off Prod",
+        "Activity": "Meetings",
+        "Sub_Activity": "Manager 1:1",
+        "% Share": 0.003037920868431966,
+        "size": 2096.549983
+      },
+      {
+        "On Off Prod": "Off Prod",
+        "Activity": "Meetings",
+        "Sub_Activity": "Supervisor 1:1",
+        "% Share": 0.0000849119567337355,
+        "size": 58.6
+      },
+      {
+        "On Off Prod": "Off Prod",
+        "Activity": "Meetings",
+        "Sub_Activity": "Team Huddles",
+        "% Share": 0.0010137753469194395,
+        "size": 699.633326
+      },
+      {
+        "On Off Prod": "Off Prod",
+        "Activity": "Mentoring",
+        "Sub_Activity": "N/A",
+        "% Share": 0.0011075745619233727,
+        "size": 764.366657
+      },
+      {
+        "On Off Prod": "Off Prod",
+        "Activity": "Monitoring",
+        "Sub_Activity": "Authorizations",
+        "% Share": 2.173514250863e-7,
+        "size": 0.15
+      },
+      {
+        "On Off Prod": "Off Prod",
+        "Activity": "Monitoring",
+        "Sub_Activity": "Closed Case Monitoring",
+        "% Share": 0.0000774737079641136,
+        "size": 53.466664
+      },
+      {
+        "On Off Prod": "Off Prod",
+        "Activity": "Monitoring",
+        "Sub_Activity": "Live Monitoring",
+        "% Share": 0.010346748939494096,
+        "size": 7140.566515
+      },
+      {
+        "On Off Prod": "Off Prod",
+        "Activity": "Monitoring",
+        "Sub_Activity": "QA/Denial Rationale",
+        "% Share": 0.0000059892392690461,
+        "size": 4.133333
+      },
+      {
+        "On Off Prod": "Off Prod",
+        "Activity": "Monitoring",
+        "Sub_Activity": "Reports",
+        "% Share": 0.000303664091003979,
+        "size": 209.566656
+      },
+      {
+        "On Off Prod": "N/A",
+        "Activity": "N/A",
+        "Sub_Activity": "N/A",
+        "% Share": "NULL",
+        "size": "NULL"
+      },
+      {
+        "On Off Prod": "On Prod",
+        "Activity": "Notifications",
+        "Sub_Activity": "N/A",
+        "% Share": 0.04468556928540358,
+        "size": 30838.697445
+      },
+      {
+        "On Off Prod": "Off Prod",
+        "Activity": "Other",
+        "Sub_Activity": "N/A",
+        "% Share": 0.010238121527267606,
+        "size": 7065.599968
+      },
+      {
+        "On Off Prod": "On Prod",
+        "Activity": "Patient Assistance Letters",
+        "Sub_Activity": "N/A",
+        "% Share": 0.0001120567347111868,
+        "size": 77.333333
+      },
+      {
+        "On Off Prod": "Off Prod",
+        "Activity": "Peer to Peer",
+        "Sub_Activity": "N/A",
+        "% Share": 0.0001448767998992262,
+        "size": 99.983331
+      },
+      {
+        "On Off Prod": "Off Prod",
+        "Activity": "Projects",
+        "Sub_Activity": "ALJ",
+        "% Share": 0.0001316183629689586,
+        "size": 90.833333
+      },
+      {
+        "On Off Prod": "Off Prod",
+        "Activity": "Projects",
+        "Sub_Activity": "CD Job Aid",
+        "% Share": 0.0000800819250651498,
+        "size": 55.266666
+      },
+      {
+        "On Off Prod": "Off Prod",
+        "Activity": "Projects",
+        "Sub_Activity": "CD Reporting",
+        "% Share": 0.0000846463049919633,
+        "size": 58.416666
+      },
+      {
+        "On Off Prod": "Off Prod",
+        "Activity": "Projects",
+        "Sub_Activity": "Error Reporting",
+        "% Share": 0.0005639061973073732,
+        "size": 389.166664
+      },
+      {
+        "On Off Prod": "Off Prod",
+        "Activity": "Projects",
+        "Sub_Activity": "Hepatitis C",
+        "% Share": 0.0000644809227756182,
+        "size": 44.499999
+      },
+      {
+        "On Off Prod": "Off Prod",
+        "Activity": "Projects",
+        "Sub_Activity": "JARVIS Off Cycle Printing",
+        "% Share": 0.0042561997561993215,
+        "size": 2937.31654
+      },
+      {
+        "On Off Prod": "Off Prod",
+        "Activity": "Projects",
+        "Sub_Activity": "Part D Mailbox/SME Line",
+        "% Share": 0.01423644589268114,
+        "size": 9824.949837
+      },
+      {
+        "On Off Prod": "Off Prod",
+        "Activity": "Projects",
+        "Sub_Activity": "Pharmacy Lock-In",
+        "% Share": 0.000085394959900594,
+        "size": 58.933333
+      },
+      {
+        "On Off Prod": "Off Prod",
+        "Activity": "Projects",
+        "Sub_Activity": "Quality Review",
+        "% Share": 0.006392812565114864,
+        "size": 4411.849831
+      },
+      {
+        "On Off Prod": "Off Prod",
+        "Activity": "Projects",
+        "Sub_Activity": "Remediation Efforts",
+        "% Share": 0.015672366007434966,
+        "size": 10815.916557
+      },
+      {
+        "On Off Prod": "Off Prod",
+        "Activity": "Projects",
+        "Sub_Activity": "Team Lead Functions",
+        "% Share": 0.010806012500701562,
+        "size": 7457.516652
+      },
+      {
+        "On Off Prod": "Off Prod",
+        "Activity": "Projects",
+        "Sub_Activity": "Training Preparation",
+        "% Share": 0.0000229426504257817,
+        "size": 15.833333
+      },
+      {
+        "On Off Prod": "On Prod",
+        "Activity": "QNXT",
+        "Sub_Activity": "N/A",
+        "% Share": 0.0004394362812079213,
+        "size": 303.266635
+      },
+      {
+        "On Off Prod": "On Prod",
+        "Activity": "RFI / Pend",
+        "Sub_Activity": "N/A",
+        "% Share": 0.20057928501814015,
+        "size": 138425.093492
+      },
+      {
+        "On Off Prod": "Off Prod",
+        "Activity": "System Aux",
+        "Sub_Activity": "N/A",
+        "% Share": 0.010401835450674315,
+        "size": 7178.583292
+      },
+      {
+        "On Off Prod": "Off Prod",
+        "Activity": "Technician Support",
+        "Sub_Activity": "N/A",
+        "% Share": 0.0000456679494264772,
+        "size": 31.516662
+      },
+      {
+        "On Off Prod": "Off Prod",
+        "Activity": "Tolling Partner",
+        "Sub_Activity": "N/A",
+        "% Share": 0.0015994408368937912,
+        "size": 1103.816574
+      },
+      {
+        "On Off Prod": "Off Prod",
+        "Activity": "Training",
+        "Sub_Activity": "Coaching",
+        "% Share": 0.0001163796130545709,
+        "size": 80.316666
+      },
+      {
+        "On Off Prod": "Off Prod",
+        "Activity": "Training",
+        "Sub_Activity": "Compliance",
+        "% Share": 0.000153329355319251,
+        "size": 105.816664
+      },
+      {
+        "On Off Prod": "Off Prod",
+        "Activity": "Training",
+        "Sub_Activity": "New Hire",
+        "% Share": 0.014193168808930613,
+        "size": 9795.083314
+      },
+      {
+        "On Off Prod": "Off Prod",
+        "Activity": "Training",
+        "Sub_Activity": "Uptraining",
+        "% Share": 0.005214550489721741,
+        "size": 3598.699984
+      },
+      {
+        "On Off Prod": "On Prod",
+        "Activity": "Voicemail Review",
+        "Sub_Activity": "N/A",
+        "% Share": 0.0001356755895705705,
+        "size": 93.633326
+      }
+    ]
+  }

@@ -1,0 +1,44 @@
+{
+  "name": "Activities",
+  "description": "MOS",
+  "children":[
+  {
+  "name": "On Prod",
+  "description": "On Prod",
+  "children":
+  [
+      {
+        "name": "Fax Intake",
+        "description": "Fax Intake",
+        "children": [
+          {"name": "ePA supporting documents", "description": "ePA supporting documents", "size": 2570},
+          {"name": "Fax Back", "description": "Fax Back", "size": 17},
+          {"name": "Non-CD", "description": "Non-CD", "size": 10697},
+          {"name": "RFI Supporting Documents", "description": "RFI Supporting Documents", "size": 2050},
+          {"name": "Standard", "description": "Standard", "size": 36038},
+          {"name": "Unsorted", "description": "Unsorted", "size": 1583},
+          {"name": "Urgent", "description": "Urgent", "size": 13411}
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Off Prod",
+    "description": "Off Prod",
+    "children":
+    [
+      {
+        "name": "Meetings",
+        "description": "Meetings",
+        "children": [
+          {"name": "Corporate",       "description": "Corporate",     "size": 2570.383267},
+          {"name": "Huddles",         "description": "Huddles",       "size": 17},
+          {"name": "Manager 1:1",     "description": "Manager 1:1",   "size": 10697},
+          {"name": "Supervisor 1:1",  "description": "Supervisor 1:1","size": 2050},
+          {"name": "Team Huddles",    "description": "Team Huddles",  "size": 36038}
+        ]
+      }
+    ]
+  }
+]
+}
